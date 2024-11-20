@@ -1,0 +1,22 @@
+Dataset Variable Name,Original Question,Weeks Found In
+additional_feedback,"Further comments or clarifications? Feel free togive us any other details, clarifications, or additional feedback that you feel might be relevant or worth sharing!Any comments provided here will be reviewed and helpful for our ongoing evaluations of ChatBots in the STAcontext. ","['wk02', 'wk03', 'wk04', 'wk05', 'wk05_after_midterm', 'wk07', 'wk09']"
+agree_chatbot_help_sta130,Orientation Question  Do you think a ChatBot could help support someone doing the kind of statistical and data science analyses taught in STA?,['orientation']
+agree_chatbot_help_you,Orientation Question  Do you think a ChatBot could contribute significantly to your learning process and experience in STA130?,['orientation']
+chatbot_for_coding,Question (Troubleshooting) Is the ChatBot able to fix programming problemsin two or fewer prompts based on code error messages?,['orientation']
+chatbot_helped_with_coding,Question (Accuracy) Did the ChatBot provide helpful guidance and working code?,"['wk02', 'wk04']"
+chatbot_scope_of_practice,Question (Focus) Was the scope of the responses of the ChatBot appropriately constrained and sufficientlytargetedon the desired information?,"['wk02', 'wk04']"
+chatbot_self_correction,Question (Troubleshooting) Is the ChatBot able to fix programming problems in two or fewer prompts based on code error messages?,"['wk02', 'wk04']"
+chatbots_good_for,Midway Question  What are ChatBots helpful for?,['wk07']
+concerns,Orientation Question  What is your main concern about taking STA?,['orientation']
+experience_with_notebooklm,Midway Question  Which of the following best characterizes your experience with the STACustom NotebookLM ChatBot (STANBLMbot)?,['wk07']
+feedback_target,Which of these topics will your feedback address? And are your responses based on using ChatGPT or the STA130 custom NBLMChatBot?,"['wk02', 'wk03', 'wk04', 'wk05', 'wk05_after_midterm', 'wk09']"
+feeling_about_chatbots_sta130,"Now that you\'ve seen half of the course, completed the midterm exam, and gotten a sense for what Prof. Scott is trying to do with everything in the course... which of the following would you say apply to you?","['wk07', 'wk09']"
+five_star_scale,"Question (Five-Star Rating) Rate your experience using a ChatBot in STAon a Five-Star scale (where is 1 negative and is 5 positive). Did you have a good experience regarding ChatBot support in writing, using, and troubleshooting Python code; or, learning statistical, data science, and Python programming topics and concepts?","['wk03', 'wk05', 'wk05_after_midterm', 'wk09']"
+focus,Question (Focus) Was the scope of the responses of the ChatBot appropriately constrained and sufficiently targeted on the desired information?,"['wk03', 'wk05', 'wk05_after_midterm', 'wk09']"
+learning_support,"Question (Learning Support) Regarding learning statistical, data science, and Python programming topics and concepts (as opposed to just writing, using, and troubleshooting Python code) which of the following did you find to be helpful?","['wk03', 'wk05', 'wk05_after_midterm', 'wk09']"
+other_chatbots,"If you answered ""Other"" above, which (and perhaps why, if you\'d like to share)?","['orientation', 'wk02', 'wk03', 'wk04', 'wk07']"
+part_of_sta130_doing_good,Midway Question  Which of the following do you think should continue to be a part of (or be added to) STA?,['wk07']
+preferred_chatbots_other_sta_course,Midway Question  Would you be interested in seeing your preferred ChatBots in other STA courses beyond STA?,['wk07']
+rely_on_chatbot,Orientation Question  How much do you rely on AI ChatBots?,['orientation']
+which_chatbots,Orientation Question  Which AI ChatBots do you use regularly?,"['orientation', 'wk02', 'wk03', 'wk04', 'wk05', 'wk05_after_midterm', 'wk07', 'wk09']"
+worry_about_r_future_sta_course,Midway question  Are you worried about the fact that future STA courses are using R instead of Python?,['wk07']
