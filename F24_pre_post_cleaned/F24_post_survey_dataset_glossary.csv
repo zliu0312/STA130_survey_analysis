@@ -1,0 +1,107 @@
+Questions,Question Number,Variable_Names
+Approximately how many total hours per week on average did you spend on STA130 this semester?,3,avg_weekly_hours_on_STA130
+My '5-Star review' for the STA130 Course Wiki-Textbook.,4,5star_wiki_textbook
+My '5-Star review' for the STA130 Custom NotebookLM ChatBot.,4,5star_custom_notebookLM_chatbot
+My '5-Star review' for the STA130 Course Lectures and/or notebooks.,4,5star_lectures
+My '5-Star review' for the STA130 Course Tutorials and/or notebooks.,4,5star_tutorials
+My '5-Star review' for the 'Friday TUT first then Monday LEC' structure of the course.,4,5star_structure
+My '5-Star review' for the STA130 Course Homework.,4,5star_homework
+My '5-Star review' for the STA130 Course Project.,4,5star_project
+My final overall '5-Star review' for ChatBots in STA130.,4,5star_overall_chatbots
+How do you feel about the following statement: Having access to CHATBOTS generally seemed to increase my motivation and level of engagement in STA130.,5,motivation_increase_via_chatbots
+"How do you feel about the following statement: Before taking the class and in the early stages of the class I had concerns about taking STA130, but having access to CHATBOTS in STA130 helped address my concerns.",5,chatbots_addressed_course_concerns
+How do you feel about the following statement: CHATBOTS increased my confidence that I would be able to succeed in STA130.,5,confidence_boost_via_chatbots
+How do you feel about the following statement: I had shared or relatable experiences using CHATBOTS that gave me opportunities to connect or bond with my fellow classmates in STA130.,5,chatbots_helped_connect_with_classmates
+How do you feel about the following statement: I have a sense of community and belonging here at UofT.,6,sense_of_belonging_UofT
+How do you feel about the following statement: I have a sense of community and belonging here in STA130.,6,sense_of_belonging_STA130
+How do you feel about the following statement: STA130 has helped me to develop a sense of community and belonging at UofT.,6,sense_of_belonging_developed_via_STA130
+How do you feel about the following statement: STA130 TUTORIALS have helped me develop a sense of community and belonging at UofT (or at least in STA130).,6,tutorials_contributed_to_belonging
+How do you feel about the following statement: The STA130 COURSE PROJECT has helped me develop a sense of community and belonging at UofT (or at least in STA130).,6,project_contributed_to_belonging
+How do you feel about the following statement: I support the continued formal integration of CHATBOTS into STA130.,7,support_chatbot_integration
+How do you feel about the following statement: CHATBOTS should be either just ignored or explicitly banned in STA130.,7,ban_or_ignore_chatbots
+How do you feel about the following statement: Any formal integration of CHATBOTS into STA130 should feel more optional.,7,chatbot_integration_optional
+How do you feel about the following statement: Guidance and support for using CHATBOTS in STA130 should be increased.,7,increase_guidance_for_chatbots
+How do you feel about the following statement: The formal integration of CHATBOTS into STA130 needs to be reimagined and revised to build on strengths and/or remove current weaknesses.,7,reimagine_chatbot_integration
+How do you feel about the following statement: I would like future STA courses (beyond STA130) to have course designs that formally utilize CHATBOT integrations.,7,future_courses_chatbot_use
+CHATBOT help in understanding code tended to be 'as good or better' compared to help from a TA or peer.,8,chatbots_helped_understand_code
+CHATBOT help in understanding course concepts tended to be 'as good or better' compared to help from a TA or peer.,8,chatbots_helped_understand_concepts
+I appreciated the constant '24/7 virtual TA' support provided by CHATBOTS and found it useful.,8,chatbots_virtual_TA_support
+CHATBOTS were an aspect of STA130 which tended to help reduce my stress levels.,8,chatbots_reduced_stress
+CHATBOTS in STA130 were a frequently recurring source of frustration for me.,8,chatbots_source_of_frustration
+I frequently chose to use CHATBOTS in STA130 to help with my understanding,9,frequent_use_chatbots
+I frequently chose to READ the Course Wiki-Textbook in STA130 to help with my understanding,9,frequent_use_wiki_textbook
+I frequently chose to use the STA130 Custom NotebookLM ChatBot in STA130 to help with my understanding,9,frequent_use_custom_notebookLM
+I frequently chose to use internet searches in STA130 to help with my understanding,9,frequent_use_internet_searches
+"I frequently chose to seek help through classmates, peers, or other (free or paid) tutoring and support services to help with my understanding in STA130",9,frequent_help_from_classmates_or_tutors
+CHATBOTS in STA130 generally quickly provided reliable information that helped my understanding,10,chatbots_provided_reliable_info
+READING the Course Wiki-Textbook in STA130 generally quickly provided reliable information that helped my understanding,10,wiki_textbook_provided_reliable_info
+The STA130 Custom NotebookLM ChatBot generally quickly provided reliable information that helped my understanding,10,custom_notebookLM_provided_reliable_info
+Internet searches in STA130 generally quickly provided reliable information that helped my understanding,10,internet_searches_provided_reliable_info
+"Seeking help through classmates, peers, or other (free or paid) tutoring and support services to help with my understanding in STA130 generally quickly provided reliable information that helped my understanding",10,classmates_or_tutors_provided_reliable_info
+"The STA130 course itself, without the use of additional paid tutoring services, provided sufficient access to resources supporting my learning in STA130",11,course_sufficient_learning_resources
+CHATBOTS empowered and benefited my learning efforts in STA130,11,chatbots_empowered_learning
+CHATBOTS streamlined and simplified my learning efforts in STA130,11,chatbots_streamlined_learning
+I valued learning to learn with CHATBOTS in STA130,11,valued_learning_with_chatbots
+I think the learning to learn with CHATBOTS skills I developed in STA130 will be helpful for other classes too,11,chatbot_skills_helpful_for_other_courses
+CHATBOTS were detrimental to my learning process in STA130,12,chatbots_detrimental_learning
+I did not 'do the work' in STA130 because of the inclusion of CHATBOTS,12,avoided_work_due_to_chatbots
+I have developed bad habits as a result of using CHATBOTS in STA130,12,bad_habits_from_chatbots
+I consider the risks CHATBOTS pose to society and the world frequently,12,frequent_thoughts_chatbot_risks
+The risks CHATBOTS pose to society and the world deeply concern me,12,deep_concerns_chatbot_risks
+"As a result of STA130, I think CHATBOTS are very useful as a tool supporting learning and understanding",13,chatbots_useful_for_learning
+CHATBOTS are a helpful tool for preparing and doing well on STA130 exams,13,chatbots_helpful_for_exams
+"As a result of STA130, I think CHATBOTS are very useful as a tool supporting productivity and efficiency",13,chatbots_useful_for_productivity
+"As a result of STA130, I think CHATBOTS are very useful as a tool for statistics and data science",13,chatbots_useful_for_statistics
+"As a result of STA130, I think CHATBOTS are very useful as a tool for helping with writing and communication",13,chatbots_useful_for_writing
+"As a result of STA130, I think CHATBOTS are very useful as a tool for coding and programming",13,chatbots_useful_for_coding
+"As a result of STA130, I use CHATBOTS a lot more for non-STA130 purposes than I otherwise would have",13,increased_non_STA130_chatbot_usage
+The custom STA130 NotebookLM ChatBot was too much trouble to set up,14,notebookLM_troublesome_setup
+I used the custom STA130 NotebookLM ChatBot extensively,14,extensive_notebookLM_usage
+I should have used the custom STA130 NotebookLM ChatBot more frequently,14,should_have_used_notebookLM_more
+Custom STA130 NotebookLM ChatBot was a very useful part of the course for me,14,notebookLM_useful
+Custom STA130 NotebookLM ChatBot was the best part of the formal integration of CHATBOTS into STA130,14,notebookLM_best_chatbot_integration
+The formal integration of CHATBOTS into STA130 would be greatly improved if the custom STA130 NotebookLM ChatBot could code well,14,better_integration_if_notebookLM_coded_well
+Any formal integrations of CHATBOTS into future STA courses (beyond STA130) should include something like the custom STA130 NotebookLM ChatBot,14,include_notebookLM_in_future_courses
+It is not possible to use PYTHON effectively as a tool in STA130 without a good amount of previous experience with PYTHON,15,python_experience_required
+I struggled with using PYTHON as a tool in STA130,15,struggled_with_python
+I valued learning to use PYTHON as a tool in STA130,15,valued_learning_python
+"The STA130 course itself, without the use of additional paid tutoring services, provided sufficient access to resources to support my learning process while learning the use of PYTHON as a tool in STA130",15,course_sufficient_python_resources
+CHATBOTS were a sufficient resource to support my use of PYTHON as a tool in STA130,15,chatbots_sufficient_for_python
+I got better at using PYTHON as a tool because of STA130,15,improved_python_skills_in_STA130
+I am good at using PYTHON as a tool because of STA130,15,proficient_python_due_to_STA130
+I valued learning to use CHATBOTS to help me use PYTHON as a tool as we did in STA130,15,valued_chatbots_for_python
+I believe I have developed skills in utilizing CHATBOTS that would allow me to UNDERSTAND CODE of a new programming language like R,16,chatbots_help_understand_new_language
+I believe I have developed skills in utilizing CHATBOTS that would help me USE ANY new programming language as a tool (such as R),16,chatbots_help_use_any_language
+I am confident that I CAN USE ANY new programming language as a tool (such as R) using skills built in STA130,16,confident_using_any_language
+I believe it's important that all STA courses use the same programming language (either just PYTHON or just R),16,important_same_language_in_courses
+"When making a relative comparison based on my understanding of PYTHON versus R, I think it's more valuable to spend more time using PYTHON rather than R",16,more_time_python_than_R
+"When making a relative comparison based on my understanding of PYTHON versus R, I don't think it matters which language I spend more time using",16,time_spent_python_vs_R_doesnt_matter
+I found learning statistical and data science concepts within the context of PYTHON and CHATBOTS to be compelling,17,learning_compelling_with_python_chatbots
+I found learning statistical and data science concepts with PYTHON and CHATBOTS in the manner of STA130 to be effective,17,learning_effective_with_python_chatbots
+I found USING SIMULATION to understand statistical and data science concepts in the manner of STA130 with PYTHON and CHATBOTS to be effective,17,simulation_effective_with_python_chatbots
+How would you describe your professional writing ability?,18,professional_writing_ability_rating
+"For the development of your professional writing ability, how helpful was the weekly writing assignments (in the Weekly Homeworks)?",19,weekly_writing_assignments_helpful_for_writing
+"For the development of your professional writing ability, how helpful was interacting with CHATBOTS?",19,chatbots_helpful_for_writing
+"For the development of your professional writing ability, how helpful was the course project and related assignments?",19,course_project_helpful_for_writing
+"For the development of your professional writing ability, how helpful was the STA130 Mentorship Program?",19,mentorship_program_helpful_for_writing
+"For the development of your communication skills, how helpful were the tutorials and tutorial activities?",20,tutorials_helpful_for_communication
+"For the development of your communication skills, how helpful were the weekly writing assignments (in the Weekly Homeworks)?",20,writing_assignments_helpful_for_communication
+"For the development of your communication skills, how helpful was interacting with CHATBOTS?",20,chatbots_helpful_for_communication
+"For the development of your communication skills, how helpful was the course project and related assignments?",20,course_project_helpful_for_communication
+"For the development of your communication skills, how helpful was the STA130 Mentorship Program?",20,mentorship_program_helpful_for_communication
+"After completing STA130, how good are you at describing the purpose of statistical inference (e.g., testing and confidence intervals)?",21,how_good_at_after_STA130_describing_statistical_inference
+"After completing STA130, how good are you at applying statistical methods for description, prediction, and inference?",21,how_good_at_after_STA130_applying_statistical_methods
+"After completing STA130, how good are you at applying statistical methods for description, prediction, and inference?",21,how_good_at_after_STA130_applying_statistical_methods
+"After completing STA130, how good are you at visualizing data?",21,how_good_at_after_STA130_visualizing_data
+"After completing STA130, how good are you at using simulation to solve a variety of problems with data?",21,how_good_at_after_STA130_using_simulation
+"After completing STA130, how good are you at manipulating and 'wrangling' data?",21,how_good_at_after_STA130_manipulating_data
+"After completing STA130, how good are you at using Python for data analysis?",21,how_good_at_after_STA130_using_python
+"After completing STA130, how good are you at communicating in writing to both statisticians and non-statisticians?",21,how_good_at_after_STA130_writing_for_statisticians
+"After completing STA130, how good are you at communicating orally to both statisticians and non-statisticians?",21,how_good_at_after_STA130_speaking_for_statisticians
+"After completing STA130, how good are you at translating practical problems into statistical terms and vice versa?",21,how_good_at_after_STA130_translating_statistical_problems
+"After completing STA130, how good are you at describing how ethical practice is important in statistical work?",21,how_good_at_after_STA130_ethics_importance
+"After completing STA130, how good are you at using statistical knowledge to solve problems in other disciplines?",21,how_good_at_after_STA130_solving_interdisciplinary_problems
+"After completing STA130, how good are you at understanding statistical analysis as a problem-solving process (e.g., from study design through data exploration and analysis to communication of results)?",21,how_good_at_after_STA130_statistical_problem_solving
+"After completing STA130, how good are you at evaluating strengths and limitations of solutions to statistical problems?",21,how_good_at_after_STA130_evaluating_solutions
+What was the most interesting part of this course?,22,most_interesting_part_of_course
+What would you add or what would you change about the course?,23,what_to_add_or_change_in_course
