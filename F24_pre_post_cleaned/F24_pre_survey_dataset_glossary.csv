@@ -1,0 +1,22 @@
+questions,variable_names
+Please select one of the following:,concent
+Are you an international student?,international
+Is English your first language?,ELL
+Please tick all that apply. You are:,race
+What first-year calculus course are you currently taking?,calculus_course
+What first-year programming course are you currently taking?,cs_course
+In what statistics program of study have you enrolled or would you like to enrol in (select your first choice)?,sta_program
+How would you describe your professional writing ability?,professional_writing_ability
+What is your experience with programming prior to starting university in September?,programming_exprience
+"What is your experience with PYTHON prior to starting university in September?
+",python_excprience
+How do you evaluate your skill level at PYTHON programming?,python_skill
+"How do you evaluate your skill at statistical data analysis?
+",sta_skill
+"How do you evaluate your skill at performing statistical data analysis using PYTHON?
+",sta_in_python_skill
+Which of the following statements best describe your feelings about the use of PYTHON for STA130? Select all that apply.,feeling_for_python_in_sta
+How much concern do you have that STA130 will not provide enough structure and support for PYTHON?,concerns
+How comfortable are you working independently on your own to understand and use PYTHON code?,use_python_independently
+How interested are you in working with AI assistance as part of learning?,feeling_AI
+How comfortable are you with self-learning statistical concepts and topics?,self-learning
